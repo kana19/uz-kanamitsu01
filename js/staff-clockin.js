@@ -9,7 +9,7 @@
  *       OS標準カメラ経由（?qr=）も解析。読取不可・非対応時は📍なしで打刻（非ブロッキング）。
  */
 
-const GAS_URL = 'https://script.google.com/macros/s/AKfycbwBDHj9-p6ZT6ExXrxF1Q-XwiEkNMPwDc0aAuk7zptivRhWhepvaCDsjaIJd7WHh_h9-A/exec';
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbwmc6SEWBwpTAtW5WOlDXOCxz3HPFuiLIDcA7cKm5F9LsSlR6Tfk3qI0_Bnqt1r3VNT-w/exec';
 const WD = ['日','月','火','水','木','金','土'];
 const STAFF_ID_KEY = 'uz_staff_id';
 
